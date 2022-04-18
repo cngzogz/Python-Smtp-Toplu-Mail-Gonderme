@@ -1,0 +1,1 @@
+# Python-Smtp-Toplu-Mail-Gonderme
